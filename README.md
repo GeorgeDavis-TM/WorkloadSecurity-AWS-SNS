@@ -53,6 +53,12 @@ The CloudFormation template creates the following resources -
 - AWS IAM Policy for Lambda Service
     - Permissions for the Lambda functions to write to the created S3 bucket.
 
+### Related Projects
+
+| GitHub Repository Name  | Description |
+| ------------- | ------------- |
+| [cloudOneWorkloadSecurityDemo](https://github.com/GeorgeDavis-TM/cloudOneWorkloadSecurityDemo) | Run an attack simulation on your workload to test policy events and alerts |
+| [WorkloadSecurityConnector-AWS](https://github.com/GeorgeDavis-TM/WorkloadSecurityConnector-AWS) | Automation scripts to setup the AWS Connector on Trend Micro Cloud One Workload Security / Deep Security (On-Prem on AWS) |
 
 ## Contributing
 
